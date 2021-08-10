@@ -6,11 +6,11 @@ import { useState } from "react";
 import colors from "../config/colors";
 
 function AlbumHeader({ imageUri, artistsHeadline, by, numberOfLikes }) {
-  const [btnValue, setBtnValue] = useState("play");
+  // const [btnValue, setBtnValue] = useState("play");
 
-  const handleClick = () => {
-    btnValue == "play" ? setBtnValue("pause") : setBtnValue("play");
-  };
+  // const handleClick = () => {
+  //   btnValue == "play" ? setBtnValue("pause") : setBtnValue("play");
+  // };
 
   return (
     <View style={styles.container}>
@@ -23,9 +23,9 @@ function AlbumHeader({ imageUri, artistsHeadline, by, numberOfLikes }) {
             {numberOfLikes + "K likes"}
           </AppText>
         </View>
-        <View style={styles.buttonContainer}>
+        {/* <View style={styles.buttonContainer}>
           <AppButton onPress={handleClick} title={btnValue} />
-        </View>
+        </View> */}
       </View>
     </View>
   );
