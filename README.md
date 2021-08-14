@@ -23,18 +23,18 @@ Scan [QR Code](https://expo.dev/@nuke_duke_19/spotify_expo_clone) via the [Expo 
 
 <hr>
 <p align="center"  >
-  <img src="Screenshots\1.png" width="200"  hieght="300" />
-  <img src="Screenshots\2.png" width="200"  hieght="300" />
-  <img src="Screenshots\3.png" width="200"  hieght="300" />
-  <img src="Screenshots\4.png" width="200"  hieght="300" />
-   <img src="Screenshots\5.png" width="200"  hieght="300" />
-  <img src="Screenshots\6.png" width="200"  hieght="300" />
-  <img src="Screenshots\7.png" width="200"  hieght="300" />
-  <img src="Screenshots\8.png" width="200"  hieght="300" />
-   <img src="Screenshots\9.png" width="200"  hieght="300" />
-  <img src="Screenshots\10.png" width="200"  hieght="300" />
-  <img src="Screenshots\11.png" width="200"  hieght="300" />
-  <img src="Screenshots\12.png" width="200"  hieght="300" />
+  <img src="screenshots\1.png" width="200"  hieght="300" />
+  <img src="screenshots\2.png" width="200"  hieght="300" />
+  <img src="screenshots\3.png" width="200"  hieght="300" />
+  <img src="screenshots\4.png" width="200"  hieght="300" />
+   <img src="screenshots\5.png" width="200"  hieght="300" />
+  <img src="screenshots\6.png" width="200"  hieght="300" />
+  <img src="screenshots\7.png" width="200"  hieght="300" />
+  <img src="screenshots\8.png" width="200"  hieght="300" />
+   <img src="screenshots\9.png" width="200"  hieght="300" />
+  <img src="screenshots\10.png" width="200"  hieght="300" />
+  <img src="screenshots\11.png" width="200"  hieght="300" />
+  <img src="screenshots\12.png" width="200"  hieght="300" />
 
 </p>
 <hr>
