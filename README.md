@@ -22,7 +22,7 @@ Scan [QR Code](https://expo.dev/@nuke_duke_19/spotify_expo_clone) via the [Expo 
 ### App Showcase
 
 <hr>
-<p align="center" >
+<p align="center"  >
   <img src="Screenshots\1.png" width="200"  hieght="300" />
   <img src="Screenshots\2.png" width="200"  hieght="300" />
   <img src="Screenshots\3.png" width="200"  hieght="300" />
