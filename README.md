@@ -62,7 +62,7 @@ To run the application on your machine, follow the steps below:
 
 - `Album Categories` - Song Sorted according to Album categories.
 
-- `Albums` - Contains collection of popular albums by Global artists like Dua Lipa,The Weekend,Shwan Mendes.
+- `Albums` - Contains collection of popular albums by Global artists like Dua Lipa,The Weeknd,Shawn Mendes.
 
 - `Navigation` - Using React Navigation and Stack Navigator.
 
